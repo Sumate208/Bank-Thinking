@@ -1,1 +1,1 @@
-website : sumate208.github.io/Easy-Bank/
+website : https://sumate208.github.io/Easy-Bank/
